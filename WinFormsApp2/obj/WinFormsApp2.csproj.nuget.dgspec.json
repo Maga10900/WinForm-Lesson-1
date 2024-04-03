@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fetul_jv25\\source\\repos\\WinFormsApp1\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fetul_jv25\\source\\repos\\WinFormsApp1\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fetul_jv25\\source\\repos\\WinFormsApp1\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "C:\\Users\\fetul_jv25\\source\\repos\\WinFormsApp1\\WinFormsApp2\\WinFormsApp2.csproj",
-        "packagesPath": "C:\\Users\\fetul_jv25\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fetul_jv25\\source\\repos\\WinFormsApp1\\WinFormsApp2\\obj\\",
+        "projectPath": "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp2\\WinFormsApp2.csproj",
+        "packagesPath": "C:\\Users\\Muhammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fetul_jv25\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
