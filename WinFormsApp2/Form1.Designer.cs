@@ -33,9 +33,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(701, 396);
+            button1.Location = new Point(485, 138);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(98, 54);
+            button1.Size = new Size(112, 72);
             button1.TabIndex = 0;
             button1.Text = "button1";
             button1.UseVisualStyleBackColor = true;
@@ -44,10 +45,11 @@
             // 
             // Window
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(button1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Window";
             Text = "Window";
             Load += Window_Load;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj": {}
+    "C:\\Users\\Muhammad\\source\\repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj": {
+    "C:\\Users\\Muhammad\\source\\repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammad\\source\\repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj",
         "projectName": "WinFormsApp3",
-        "projectPath": "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj",
+        "projectPath": "C:\\Users\\Muhammad\\source\\repos\\WinForm-Lesson-1.a\\WinFormsApp3\\WinFormsApp3.csproj",
         "packagesPath": "C:\\Users\\Muhammad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammad\\Source\\Repos\\WinForm-Lesson-1.a\\WinFormsApp3\\obj\\",
+        "outputPath": "C:\\Users\\Muhammad\\source\\repos\\WinForm-Lesson-1.a\\WinFormsApp3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

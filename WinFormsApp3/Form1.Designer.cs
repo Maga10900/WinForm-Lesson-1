@@ -47,9 +47,10 @@
             // 
             // Saat
             // 
+            Saat.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             Saat.AutoSize = true;
             Saat.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
-            Saat.Location = new Point(767, 32);
+            Saat.Location = new Point(622, 32);
             Saat.Name = "Saat";
             Saat.Size = new Size(82, 41);
             Saat.TabIndex = 2;
